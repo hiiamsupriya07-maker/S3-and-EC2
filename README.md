@@ -64,9 +64,12 @@ Select your instance → Instance State → Terminate.
 
 ## Creating S3 Bucket:
 
+
 <img width="960" height="540" alt="Screenshot 2026-11-03 094513" src="https://github.com/user-attachments/assets/4b89e14d-26be-4291-894a-f88e56fa9c8d" />
 
+
 ## Uploading Files in Bucket:
+
 
 <img width="960" height="540" alt="Screenshot 2026-10-31 081720" src="https://github.com/user-attachments/assets/99969e5d-9636-447f-81c9-3a9b58e25c93" />
 
@@ -76,9 +79,12 @@ Select your instance → Instance State → Terminate.
 
 <img width="960" height="540" alt="Screenshot 2026-10-31 085040" src="https://github.com/user-attachments/assets/7fcaf8c9-05a2-41d1-b8d1-2b24dc589fce" />
 
+
+
 ## Connecting Instance:
 
 <img width="960" height="540" alt="Screenshot 2026-10-31 085544" src="https://github.com/user-attachments/assets/f890df99-983f-42aa-acbf-4015a16bbebe" />
+
 
 
 ## Stopping the Instance:
